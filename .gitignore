@@ -12,5 +12,4 @@
 # Crash log files
 crash.log
 
-# Exclude any files ending in `.tf` that are not in the root of the repository
-**/*.tf
+
